@@ -35,11 +35,11 @@ import Weather_App from './assets/work_logo/Weather_App.png';
 
 
 // Certificates Section Logo's
-import reactCert from './assets/certificates/React_Certificate.jpg';
-import jsCert from './assets/certificates/javascript_intermediate_certificate.jpg';
-import frontendCert from './assets/certificates/Introduction_to_Front_End_Development.jpg';
-import htmlCert from './assets/certificates/HTML.jpg';
-import cssCert from './assets/certificates/css_certificate.jpg';
+import reactCert from './assets/Certificates/React_Certificate.jpg';
+import jsCert from './assets/Certificates/javascript_intermediate_certificate.jpg';
+import frontendCert from './assets/Certificates/Introduction_to_Front_End_Development.jpg';
+import htmlCert from './assets/Certificates/HTML.jpg';
+import cssCert from './assets/Certificates/css_certificate.jpg';
 import aiMlCert from './assets/Certificates/AI&ML_Intren.jpg';
 import googleClouCert from './assets/Certificates/googleClouCert.jpeg';
 
